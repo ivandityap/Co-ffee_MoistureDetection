@@ -4,15 +4,10 @@
 ##### The dataset is manually collected by us
 The dataset used for this work is images of coffee beans with different moisture. There is 5 different classification:
 - <13%
-  - <img src= "https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/Fk0%20(9).jpg" width="250" height="200">
 - <13.2%
-  - <img src= "https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/RBT3k1%20(3).jpg" width="250" height="200">
 - <14%
-  - <img src= "https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/Fk2%20(3).jpg" width="250" height="200">
 - <15%
-  - <img src= "https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/Fk3%20(5).jpg" width="250" height="200">
 - 15%>
-  - <img src= "https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/6k4%20(1).jpg" width="250" height="200">
 
 There are total 416 images splitted into train_data, validation_data, and test_data.
 # Models
