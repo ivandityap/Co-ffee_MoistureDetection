@@ -1,5 +1,5 @@
-# Co-ffee_MoistureDetection
-Coffee Beans Moisture Detection with Fusioned Triple Deep Convolutional Neural Network
+![Co-ffee logo](https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Images/logo2.svg)
+## Coffee Beans Moisture Detection with Fusioned Triple Deep Convolutional Neural Network
 # DATASETS
 ##### The dataset is manually collected by us
 The dataset used for this work is images of coffee beans with different moisture. There is 5 different classification:
@@ -24,3 +24,7 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
 6. Start the training.
 7. After all T-DCNN models are built, you may now run the testing.py from the main `Co-ffee_MoistureDetection/` folder.
 8. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
+# Results
+###### Accuracy and loss graph after 25 epochs.
+![Co-ffee logo](https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Images/res1.png)
+![Co-ffee logo](https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Images/Screenshot%202022-06-12%20135755.png)
