@@ -10,7 +10,7 @@
 
 **Coffee Beans Moisture Detection with Fusioned Triple Deep Convolutional Neural Network**
 ## Graphical Abstract
-![graph_abs](images/Graphic%20abstract-Page-5.png)
+![graph_abs](Images/Graphic%20abstract-Page-5.png)
 <p align="center">
     <b>Fig 1</b> Triple deep convolutional neural network model for moisture level detection
 </p>
@@ -20,7 +20,7 @@
 
 The dataset used for this work is images of coffee beans with different moisture. There is 5 different classification:
 
-![dataset](images/dataset.jpeg)
+![dataset](Images/dataset.jpeg)
 
 There are total 416 images splitted into train_data, validation_data, and test_data.
 You can find the dataset here: **<a target=blank_ href="https://drive.google.com/drive/folders/1WaI9rQo7gBEZzdL7b40X_ciEuAy9DC-R?usp=sharing">Google Drive Prepared Dataset<a/>**
@@ -34,7 +34,9 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
 - VGG16
 - DenseNet121
 
-**For an immediate simulation without the hassle of going over the previous instructions, refer to this link. : <a href="https://drive.google.com/file/d/11ycNNk1YWZGSVtpbrCJ3zwIBZgwxd7ai/view?usp=sharing">Pre-Trained Weights</a>**
+**For an immediate simulation without the hassle of going over the previous instructions, refer to this link:**
+
+ **<a href="https://drive.google.com/file/d/11ycNNk1YWZGSVtpbrCJ3zwIBZgwxd7ai/view?usp=sharing">Pre-Trained Weights</a>**
 
 `PRE-TRAINED WEIGHTS FILESIZE: (344 MB)`
 
