@@ -1,7 +1,7 @@
 ![Co-ffee logo](https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Images/logo2.svg)
 ## Coffee Beans Moisture Detection with Fusioned Triple Deep Convolutional Neural Network
 # DATASETS
-##### The dataset is manually collected by us
+##### The dataset for this work is manually collected
 The dataset used for this work is images of coffee beans with different moisture. There is 5 different classification:
 - <13%
 - <13.2%
