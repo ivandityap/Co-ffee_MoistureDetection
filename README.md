@@ -8,48 +8,37 @@
 ![Tensorflow](https://img.shields.io/badge/tensorflow-v2.8.0+-success.svg)
 
 
-## Coffee Beans Moisture Detection with Fusioned Triple Deep Convolutional Neural Network
-# DATASETS
-##### The dataset for this work is manually collected
+**Coffee Beans Moisture Detection with Fusioned Triple Deep Convolutional Neural Network**
+## Graphical Abstract
+![graph_abs](images/Graphic%20abstract-Page-5.png)
+<p align="center">
+    <b>Fig 1</b> Triple deep convolutional neural network model for moisture level detection
+</p>
+
+## Dataset
+**The dataset for this work is manually collected**
+
 The dataset used for this work is images of coffee beans with different moisture. There is 5 different classification:
-- <13%
 
-<img src="https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/Fk0%20(9).jpg" width="200" height="150">
-
-- <13.2%
-
-<img src="https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/RBT3k1%20(3).jpg" width="200" height="150">
-
-
-- <14%
-
-<img src="https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/Fk2%20(3).jpg" width="200" height="150">
-
-
-- <15%
-
-<img src="https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/Fk3%20(5).jpg" width="200" height="150">
-
-
-- 15%>
-
-<img src="https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Dataset/6k4%20(1).jpg" width="200" height="150">
-
-
+![dataset](images/dataset.jpeg)
 
 There are total 416 images splitted into train_data, validation_data, and test_data.
-You can find the dataset [Here](https://drive.google.com/drive/folders/1WaI9rQo7gBEZzdL7b40X_ciEuAy9DC-R?usp=sharing)
-
+You can find the dataset here: **<a target=blank_ href="https://drive.google.com/drive/folders/1WaI9rQo7gBEZzdL7b40X_ciEuAy9DC-R?usp=sharing">Google Drive Prepared Dataset<a/>**
 
 `Dataset Size : 411MB`
 
 
-# Models
+## Models
 Transfer learning and model fusion is used in this work. There are 3 fusioned model :
 - InceptionV3
 - VGG16
 - DenseNet121
-# How To Use
+
+**For an immediate simulation without the hassle of going over the previous instructions, refer to this link. : <a href="https://drive.google.com/file/d/11ycNNk1YWZGSVtpbrCJ3zwIBZgwxd7ai/view?usp=sharing">Pre-Trained Weights</a>**
+
+`PRE-TRAINED WEIGHTS FILESIZE: (344 MB)`
+
+## How To Use
 1. Open the `TDCNN_1.ipynb` file in `Co-ffee_MoistureDetection/Model Trainer/`
 2. Import all the required libraries.
 3. Build the model with transfer learning of `InceptionV3`, `VGG16`, and `DenseNet121`. 
@@ -58,7 +47,7 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
 6. Start the training.
 7. After all T-DCNN models are built, you may now run the `testing.py` from the main `Co-ffee_MoistureDetection/` folder.
 8. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
-# Results
+## Results
 ###### Accuracy and loss graph after 25 epochs.
 ![Co-ffee logo](https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Images/res1.png)
 ![Co-ffee logo](https://github.com/ivandityap/Co-ffee_MoistureDetection/blob/main/Images/Screenshot%202022-06-12%20135755.png)
