@@ -55,6 +55,12 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
     <b>Fig 2</b> Accuracy and loss graph after 25 epochs.
 </p>
 
+## Co-ffee Github Repo Links ##
+###
+**Machine Learning**
+>**[Classiﬁcation of Coffee Leaf Diseases](https://github.com/arsyakaukabi/Co-ffee_A)**
+
+>**[Green Coffee Beans Moisture Level Detection](https://github.com/ivandityap/Co-ffee_MoistureDetection)**
 
 **Cloud Computing**
 >**[Disease classification API](https://github.com/xrizer/Co-ffee-Desease-API)**
