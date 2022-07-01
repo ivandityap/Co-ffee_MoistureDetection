@@ -83,7 +83,7 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
 ## Acknowledgment ##
 Thanks to [Bangkit Academy][4]. Without its support, this work would not have become possible.
 
-[2]:(https://www.instagram.com/arsyakaukabi/)
-[3]:(https://www.instagram.com/ivnvan_/)
-[4]:(https://grow.google/intl/id_id/bangkit/)
-[5]:(https://www.instagram.com/muhammadnaufalariiq/)
+[2]:https://www.instagram.com/arsyakaukabi/
+[3]:https://www.instagram.com/ivnvan_/
+[4]:https://grow.google/intl/id_id/bangkit/
+[5]:https://www.instagram.com/muhammadnaufalariiq/
