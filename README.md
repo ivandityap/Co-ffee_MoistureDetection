@@ -6,7 +6,15 @@
 ![Python](https://img.shields.io/badge/python-v3.9.0+-success.svg)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-v2.8.0+-success.svg)
 
+
 **Coffee Beans Moisture Detection with Fusioned Triple Deep Convolutional Neural Network**
+
+- **Authors:  [Ivan Arsyaditya Prananda][2], [Mohamad Arsya Kaukabi][3], and [Muhammad Naufal Ariiq][5]**
+
+- **Affiliation: [Bangkit Academy][4]**
+
+- **E-mail: arsyakaukabi@gmail.com**
+
 ## Graphical Abstract
 ![graph_abs](Images/Graphic%20abstract-Page-5.png)
 <p align="center">
@@ -49,7 +57,7 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
 8. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
 ## Results
 <p align="center">
-    <img src="History/TDCNN.svg" alt="drawing" width="300"/>
+    <img src="History/TDCNN.svg" alt="drawing" width="400"/>
     
 <p align="center">
     <b>Fig 2</b> Accuracy and loss graph after 25 epochs.
@@ -73,5 +81,9 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
 >**[Project Android Studio](https://github.com/Rizalfirman165/co-ffee)**
 
 ## Acknowledgment ##
-Thanks to [Bangkit Academy](https://grow.google/intl/id_id/bangkit/). Without its support, this work would not have become possible.
+Thanks to [Bangkit Academy][4]. Without its support, this work would not have become possible.
 
+[2]:(https://www.instagram.com/arsyakaukabi/)
+[3]:(https://www.instagram.com/ivnvan_/)
+[4]:(https://grow.google/intl/id_id/bangkit/)
+[5]:(https://www.instagram.com/muhammadnaufalariiq/)
