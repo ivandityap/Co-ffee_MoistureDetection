@@ -71,10 +71,9 @@ Transfer learning and model fusion is used in this work. There are 3 fusioned mo
 >**[Green Coffee Beans Moisture Level Detection](https://github.com/ivandityap/Co-ffee_MoistureDetection)**
 
 **Cloud Computing**
->**[Disease classification API](https://github.com/xrizer/Co-ffee-Desease-API)**
+>**[Disease classification API](https://github.com/xrizer/Co-ffee-Disease-API)**
 
->**[Coffee beans Moisture level detection API](https://github.com/xrizer/Co-ffee-Desease-API
-)**
+>**[Coffee beans Moisture level detection API](https://github.com/xrizer/Co-ffee-Disease-API)**
 
 **Mobile Development**
 
